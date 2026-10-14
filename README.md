@@ -132,4 +132,3 @@ src/app/
 
 - **Una Ilić**: [@unailic](https://github.com/unailic)
 - **Anja Perović**: [@anjaperovic22](https://github.com/anjaperovic22)
-- 
